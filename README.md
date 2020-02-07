@@ -7,8 +7,8 @@
 - Understand the order of if and elif conditions.
 
 ### Task
-prompt the user for input
-Evaluate each input and print the appropriate responses
+Prompt the user for input, evaluate each input and print the appropriate responses.
+
 Follow these rules:
 
 - Every time you ask a question --> Mr. Miyagi responde with
